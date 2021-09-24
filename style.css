@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    align-items: flex-start;
+
+    }
+
+    body {
+    display: flex;
+    min-height: 50vh;
+    margin: 0;
+    font-size: small;
+    background: rgb(15, 16, 17);
+    color: rgb(56, 107, 69);
+    }
+    header, footer {
+    display: flex;
+    align-items:center;
+    height: 3.125rem;
+    background-color: rgb(15, 41, 27);
+    flex-flow:wrap;
+    }
+
+        main {
+        display: flex;
+        padding-left: 3rem;
+        padding-right: 3rem;
+        flex-grow: 1;
+        flex-wrap: wrap;
+        justify-content: left;
+        align-items: left;
+        background-color: rgb(15, 41, 27);
+        }
+        article {
+            display: flex;
+            flex-direction: column;
+            padding: 1rem;
+            height: 50%;
+            width: 15rem;
+            border-radius: 20px;
+            border: 5px solid;
+            background-color:rgb(15, 41, 27)
+        }
