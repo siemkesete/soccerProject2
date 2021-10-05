@@ -14,7 +14,8 @@
 !ot 1[()
 
 # Getting Started
-
-[Click here](#)to see the deployed Project
+<a href="http://127.0.0.1:5503/" target="_blank">Google</a>
+[Click here](http://127.0.0.1:5503/)to see the deployed Project
 
 # future Enhancements# soccerProject2
+https://github.com/siemkesete/soccerProject2/blob/main/screenshot.png
