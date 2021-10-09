@@ -12,10 +12,9 @@ This project displays soccer results  from the premier league and champions leag
  
 # Screenshots
 
-[screenshot](file:///Users/siemkesete/Desktop/Screen%20Shot%202021-10-02%20at%207.21.59%20PM.png)
-
+[screenshot](https://imgur.com/z73uw57)
 # Getting Startedclick 
-[Click here](http://127.0.0.1:5503/)to see the deployed Project
+[Click here](https://1a8f-73-237-106-162.ngrok.io)to see the deployed Project
 
 # future Enhancements# soccerProject2
 To display both teams in to small soccer fields for each that show the results of the game with better css .
